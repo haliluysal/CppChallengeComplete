@@ -1,0 +1,6 @@
+[submodule "CppChallenge"]
+	path = CppChallenge
+	url = https://github.com/haliluysal/CppChallenge
+[submodule "CppChallengeTests"]
+	path = CppChallengeTests
+	url = https://github.com/haliluysal/CppChallengeTests
